@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/LynnGuo666?template=classic&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&rss=false&rss.source=https%3A%2F%2Flynn6.top%2Ffeed.xml&rss.limit=2&config.timezone=Asia%2FShanghai)
+
+![LynnGuo666's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnguo666&show_icons=true)
+
+
 <!--
 **LynnGuo666/LynnGuo666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
