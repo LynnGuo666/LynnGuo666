@@ -4,6 +4,7 @@
 
 ![LynnGuo666's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnguo666&show_icons=true)
 
+![AITokenStatus](https://tokscale.ai/api/embed/LynnGuo666/svg?theme=light&compact=1)
 
 <!--
 **LynnGuo666/LynnGuo666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
